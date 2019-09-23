@@ -1,0 +1,12 @@
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\bin\Debug\DomainColoring.exe.config
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\bin\Debug\DomainColoring.exe
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\bin\Debug\DomainColoring.pdb
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\obj\Debug\DomainColoring.csprojResolveAssemblyReference.cache
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\obj\Debug\DomainColoring.Form1.resources
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\obj\Debug\DomainColoring.Properties.Resources.resources
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\obj\Debug\DomainColoring.csproj.GenerateResource.Cache
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\obj\Debug\DomainColoring.csproj.CoreCompileInputs.cache
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\obj\Debug\DomainColoring.exe
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\obj\Debug\DomainColoring.pdb
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\bart.gebka\source\repos\DomainColoring\DomainColoring\obj\Debug\DomainColoring.SaveImageForm.resources
